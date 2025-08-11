@@ -2,6 +2,7 @@ Hướng Dẫn Sử Dụng Ứng Dụng Bốc Thăm (Phiên bản Hoàn Chỉnh)
 Chào mừng bạn đến với ứng dụng bốc thăm thi đấu! Công cụ này sẽ giúp bạn tạo lịch thi đấu ngẫu nhiên cho thể thức Loại trực tiếp hoặc Vòng tròn một cách công bằng, chuyên nghiệp và đầy kịch tính.
 Chạy file index.html
 ________________________________________
+## Bước 0: Nhập tên môn thi đấu/ giải đấu
 ## Bước 1: Thêm Danh Sách Đội 📝
 Đây là bước đầu tiên và quan trọng nhất.
 1.	Nhập Tên Đội: Tại khu vực "1. Nhập danh sách đội", bạn hãy nhập tên các đội vào khung lớn. Bạn có hai cách:
@@ -37,3 +38,4 @@ ________________________________________
 ________________________________________
 ## Bước 5: Bắt Đầu Lại (Reset) 🗑️
 Nếu bạn muốn tổ chức một giải đấu mới, chỉ cần nhấn nút Reset màu đỏ. Mọi thông tin về đội và kết quả bốc thăm sẽ được xóa sạch, trả ứng dụng về trạng thái ban đầu.
+
